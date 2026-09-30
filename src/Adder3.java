@@ -1,0 +1,2 @@
+public class Adder3 {
+}
